@@ -21,7 +21,7 @@ app.add_middleware(
 )
 
 # Twitter Clone Config
-TWITTER_API_KEY = "victor_19f26690c87a600518e74ab8023a1c08"
+TWITTER_API_KEY = "YOUR TWITTER API KEY HERE"
 TWITTER_POST_ENDPOINT = "https://twitterclone-server-2xz2.onrender.com/post_tweet"
 
 # Pydantic model
